@@ -1,0 +1,83 @@
+.container{
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    align: center;
+}
+
+/* background image */
+
+.background {
+    background-image: url(image/circle.jpeg)
+}
+
+header {
+  background-color: #737373;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px 0 0 0;
+    text-align:center;
+}
+
+h1{
+  font-family:Comic Sans MS;
+  font-size: 35px;
+  color: #d7d6d6;
+
+  font-weight: 400;
+  text-align: center;
+  text-decoration: none;
+  line-height: 100%;
+  letter-spacing:10px;
+  text-transform:uppercase;
+}
+
+h3 {
+    font-size: 20px;
+    color: #d7d6d6;
+}
+
+ul, li{
+    font-size:20px;
+}
+
+/* cover photo setup */
+
+.rounded {
+border-radius: 50px;
+}
+
+.centered-text{ 
+    text-align:center;
+    font-size:18px;
+     letter-spacing:1px;
+}
+
+.space,p, a{
+     padding:8px, 25px;
+}
+
+h2{
+    text-align:center;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    }
+
+.wrapper {
+  background-color:#737373;
+  color: #d7d6d6;
+    text-align:center;
+}
+
+
+
+.center {
+    text-align:center;
+}
+
+p {
+    font-size: 18px;
+    font-family: "Verdana";
+    letter-spacing:1px;
+}
+
